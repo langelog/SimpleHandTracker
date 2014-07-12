@@ -1,0 +1,11 @@
+KinectCV.pro.user
+Makefile
+Makefile.Debug
+Makefile.Release
+debug/KinectCV.exe.embed.manifest
+debug/KinectCV.exe_manifest.rc
+debug/KinectCV.exe_manifest.res
+debug/KinectCV.ilk
+debug/kinectcv.pdb
+debug/main.obj
+*.exe
