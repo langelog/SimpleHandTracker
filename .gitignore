@@ -1,12 +1,12 @@
-KinectCV.pro.user
+KinectTemplate.pro.user
 Makefile
 Makefile.Debug
 Makefile.Release
-debug/KinectCV.exe.embed.manifest
-debug/KinectCV.exe_manifest.rc
-debug/KinectCV.exe_manifest.res
-debug/KinectCV.ilk
-debug/kinectcv.pdb
-debug/main.obj
+debug/KinectTemplate.exe.embed.manifest
+debug/KinectTemplate.exe_manifest.rc
+debug/KinectTemplate.exe_manifest.res
+debug/KinectTemplate.ilk
+debug/kinectTemplate.pdb
+*.obj
 *.exe
 

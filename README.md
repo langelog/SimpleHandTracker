@@ -1,4 +1,4 @@
-KinectCV # Kinect SDK + Qt + OpenNI + NiTE + OpenCV
+KinectCV # NiTE + Qt + OpenCV
 ===
 
 This repo has a template for traking hands and show the position with openCV using Qt Creator and some common libraries used for kinect.
